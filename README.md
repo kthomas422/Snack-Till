@@ -7,3 +7,5 @@ Also calculates change needed to be given to customer.
 
 The "main" program is snack_till.pyw that the sales are made from and saves the data to a csv file. 
 There is a manage_till.pyw that saves the csv report to a defined location and the numbers can be reset from that screen as well.
+
+ It requires the Zelle Graphics library which can be found at http://mcsp.wartburg.edu/zelle/python/
